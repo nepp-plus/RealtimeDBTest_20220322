@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017536633600",
+    "project_id": "realtimedbtest-20220322",
+    "storage_bucket": "realtimedbtest-20220322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017536633600:android:42e079af77297ce38f71e5",
+        "android_client_info": {
+          "package_name": "com.neppplus.realtimedbtest_20220322"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017536633600-8eg68m5ikfe7chfmrbaq9ai2h4ps3n14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBPtrWNdL5F5kU0E0KQlyesFpLHO2ahVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017536633600-8eg68m5ikfe7chfmrbaq9ai2h4ps3n14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
